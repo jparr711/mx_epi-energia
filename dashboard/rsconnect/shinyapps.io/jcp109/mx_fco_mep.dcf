@@ -1,0 +1,14 @@
+name: mx_fco_mep
+title: mx_fco_mep
+username:
+account: jcp109
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2841418
+bundleId: 5561534
+url: https://jcp109.shinyapps.io/mx_fco_mep/
+when: 1644421770.90513
+lastSyncTime: 1644421770.90513
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: final_sj.csv|final_sj.RData|final_sj_en.csv|final_sj_en.RData|final_sj_es.csv|final_sj_es.RData|Rplot001.jpg|scraped_jobs_en.csv|scraped_jobs_es.csv|subsector_word_pct.RData|wordpct.RData
